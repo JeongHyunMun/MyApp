@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">미스터큐어</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- fragment 하단 바 변수 -->
+    <string name="home"></string>
+    <string name="favorite"></string>
+    <string name="video"></string>
+    <string name="search"></string>
+    <string name="setting"></string>
+
+    <!-- frame 변수 -->
+    <string name="containers"></string>
+
+    <!-- 하단 바 -->
+    <string name="bottom_navigationview"></string>
+
+    <!-- 툴 바 -->
+    <string name="toolbar"></string>
+    <string name="drawer_layout"></string>
+    <string name="account"></string>
+    <string name="camera"></string>
+    <string name="menu"></string>
+
+    <string name="food1_text">1. 전복
+바다의 명품 전복은 칼로리가 낮고 비타민과 무기질이 풍부해 여름철 기운이 떨어졌을 때 먹으면 더욱 좋은 식품이다.
+맛과 영양 또한 뛰어나 여름철 보양식으로 많은 사람에게 사랑을 받고 있다. 또한 비타민A, 비타민C, 철분, 요오드, 글리신, 아르기닌 등 아미노산이 풍부하게 함유돼 있어 노약자의 병후 기력회복 및 성장기 아이들에게도 좋다.
+전복죽, 전복 밥, 전복 삼계탕, 전복 조림, 전복 샐러드, 회, 전복 버터구이 등 다양한 요리로 해서 먹을 수 있다.
+[출처] 대한민국 정책브리핑(www.korea.kr)</string>
+
+    <!-- API 테스트 -->
+    <string name="txt_view"></string>
+
+    <!-- login -->
+    <string name="loginBtn"></string>
+    <string name="registerBtn"></string>
+    <string name="input_login_id_hint">아이디를 입력해주세요</string>
+    <string name="input_login_pw_hint">비밀번호를 입력해주세요</string>
+
+
+    <string name="profile"></string>
+    <string name="name"></string>
+    <string name="message"></string>
+
+</resources>
